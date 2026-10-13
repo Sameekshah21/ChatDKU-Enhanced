@@ -1,0 +1,20 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Source documents and generated local Qdrant state may be private or large.
+data/
+
+# Submission safety
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+data/index/
+data/cache/
+chatdku_benchmark_results/
+chatdku_quick_results/
+chatdku_quick_quality_results/

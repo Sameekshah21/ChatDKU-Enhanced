@@ -1,0 +1,19 @@
+{
+  "collection": "chatdku",
+  "created_at": "2026-10-13T10:23:56.232076+00:00",
+  "document_count": 436,
+  "source_files": [
+    {
+      "path": "Advising FAQ (12-19-24 Update).docx",
+      "relative_path": "Advising FAQ (12-19-24 Update).docx",
+      "sha256": "1e4848a517e4c4e348a25cac90f8c842c88a679ed607dd8b56eec6b1da933844",
+      "size_bytes": 56797
+    },
+    {
+      "path": "ug_bulletin_2025-2026.pdf",
+      "relative_path": "ug_bulletin_2025-2026.pdf",
+      "sha256": "d839cab7e50d9ffe900dcbe43cdbe1d992d65f61014b043baa5b910bb71a615b",
+      "size_bytes": 11120690
+    }
+  ]
+}
